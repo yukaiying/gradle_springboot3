@@ -1,0 +1,8 @@
+boot/Application.java
+ boot.Application
+boot/dao/UserDao.java
+ boot.dao.UserDao
+boot/domain/User.java
+ boot.domain.User
+boot/controller/IndexController.java
+ boot.controller.IndexController
